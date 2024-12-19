@@ -8,5 +8,6 @@ public class ProductRequestDTO {
 
     private String name;
     private Double price;
+    private String description;
     private MultipartFile image;
 }
